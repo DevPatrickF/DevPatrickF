@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Patrick Fernandes, Desenvolvedor Full Stack Júnior 👨‍💻💻
 
 - 🔭 Estou no ultimo periodo da minha graduação.
-- 🌱 Atualmente estudando e aprofundando conhecimentos em FastAPI, APIs REST, React, AWS
-- 👯 Buscando oportunidades como Desenvolvedor Trainee / Júnior
+- 🌱 Atualmente aprimorando meus conhecimentos em FastAPI, React, AWS
+- 👯 Buscando oportunidades como Desenvolvedor Júnior
 - 📫 Como me contatar: devpatrickf@gmail.com
 <br><br>
 
