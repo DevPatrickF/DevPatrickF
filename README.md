@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Patrick Fernandes, Desenvolvedor Full Stack Júnior 👨‍💻💻
 
 - 🔭 Estou no ultimo periodo da minha graduação.
-- 🌱 Atualmente aprimorando meus conhecimentos em FastAPI, React, AWS
+- 🌱 Atualmente aprimorando meus conhecimentos em FastAPI, AWS
 - 👯 Buscando oportunidades como Desenvolvedor Júnior
 - 📫 Como me contatar: devpatrickf@gmail.com
 <br><br>
@@ -9,17 +9,19 @@
 <ul>
 <li>Backend</li>
 
-Python | FastAPI | Flask
-
-APIs REST | JWT | ORM | SQLAlchemy
+Python | FastAPI | APIs REST | JWT | Oauth2 | SQLAlchemy
 
 <li>Frontend</li>
 
-HTML | CSS | JavaScript | React
+HTML | CSS | JavaScript | React 
 
 <li>Banco de Dados</li>
 
 MySQL
+
+<li>Cloud</li>
+AWS
+
 </ul>
   <ul>
     <li>Habilidades Tecnicas
